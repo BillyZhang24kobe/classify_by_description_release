@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader, Subset
 from torchvision import transforms
 from torchvision.datasets import ImageNet, ImageFolder
 from imagenetv2_pytorch import ImageNetV2Dataset as ImageNetV2
-from datasets import _transform, CUBDataset
+from datasets import _transform, CUBDataset, GEODEDataset
 from collections import OrderedDict
 import clip
 
@@ -20,7 +20,7 @@ from loading_helpers import *
 hparams = {}
 # hyperparameters
 
-hparams['model_size'] = "ViT-B/32" 
+hparams['model_size'] = "ViT-L/14@336px" 
 # Options:
 # ['RN50',
 #  'RN101',
@@ -31,7 +31,7 @@ hparams['model_size'] = "ViT-B/32"
 #  'ViT-B/16',
 #  'ViT-L/14',
 #  'ViT-L/14@336px']
-hparams['dataset'] = 'cub'
+hparams['dataset'] = 'geode'
 
 hparams['batch_size'] = 64*10
 hparams['device'] = "cuda" if torch.cuda.is_available() else "cpu"
@@ -76,6 +76,7 @@ hparams['descriptor_fname'] = None
 IMAGENET_DIR = '/proj/vondrick3/datasets/ImageNet/' # REPLACE THIS WITH YOUR OWN PATH
 IMAGENETV2_DIR = '/proj/vondrick/datasets/ImageNetV2/' # REPLACE THIS WITH YOUR OWN PATH
 CUB_DIR = '/proj/vondrick/datasets/Birds-200-2011/' # REPLACE THIS WITH YOUR OWN PATH
+GEO_DIR = '/local/data/xuanming/geode_flat/'
 
 # PyTorch datasets
 tfms = _transform(hparams['image_size'])
@@ -107,6 +108,13 @@ elif hparams['dataset'] == 'cub':
     dataset = CUBDataset(hparams['data_dir'], train=False, transform=tfms)
     classes_to_load = None #dataset.classes
     hparams['descriptor_fname'] = 'descriptors_cub'
+
+elif hparams['dataset'] == 'geode':
+    # load geode dataset
+    hparams['data_dir'] = pathlib.Path(GEO_DIR)
+    dataset = GEODEDataset(hparams['data_dir'], train=False, transform=tfms)
+    classes_to_load = None #dataset.classes
+    hparams['descriptor_fname'] = 'descriptors_geode'
 
 
 hparams['descriptor_fname'] = './descriptors/' + hparams['descriptor_fname']
@@ -251,7 +259,8 @@ def yield_misclassified_indices(images, labels, predictions, true_label_to_consi
     return misclassified_indices
 
 
-from PIL import Image
+from PIL import Image, ImageFile
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 def predict_and_show_explanations(images, model, labels=None, description_encodings=None, label_encodings=None, device=None):
     if type(images) == Image:
         images = tfms(images)

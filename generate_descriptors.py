@@ -1,12 +1,13 @@
 import os
 import openai
 import json
+import pandas as pd
 
 import itertools
 
 from descriptor_strings import stringtolist
 
-openai.api_key = None #FILL IN YOUR OWN HERE
+openai.api_key = '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' #FILL IN YOUR OWN HERE
 
 
 def generate_prompt(category_name: str):
@@ -69,3 +70,7 @@ def obtain_descriptors_and_save(filename, class_list):
     
 
 # obtain_descriptors_and_save('example', ["bird", "dog", "cat"])
+
+df = pd.read_csv('../images/geode/index.csv', index_col=False)
+class_list = list(df['object'].unique())  # class list in Geo-DE
+obtain_descriptors_and_save('descriptors_geode', class_list)
