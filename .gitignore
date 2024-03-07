@@ -18,6 +18,9 @@ ipython_config.py
 ### Logs ###
 logs/*
 
+### demo images ###
+figs/examples/*
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/

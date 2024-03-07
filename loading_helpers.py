@@ -97,10 +97,12 @@ def denormalize(images, means=(0.485, 0.456, 0.406), stds=(0.229, 0.224, 0.225))
     stds = torch.tensor(stds).reshape(1, 3, 1, 1)
     return images * stds + means
   
-def show_single_image(image):
+def show_single_image(image, img_idx, region):
     fig, ax = plt.subplots(figsize=(12, 12))
     ax.set_xticks([]); ax.set_yticks([])
     denorm_image = denormalize(image.unsqueeze(0).cpu(), *stats)
     ax.imshow(denorm_image.squeeze().permute(1, 2, 0).clamp(0,1))
     
-    plt.show()
+    # plt.show()
+    plt.savefig('./figs/examples/{}/{}.png'.format(region, img_idx))
+    plt.close()

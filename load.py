@@ -20,7 +20,7 @@ from loading_helpers import *
 hparams = {}
 # hyperparameters
 
-hparams['model_size'] = "ViT-L/14@336px" 
+hparams['model_size'] = "ViT-B/32" 
 # Options:
 # ['RN50',
 #  'RN101',
@@ -34,7 +34,8 @@ hparams['model_size'] = "ViT-L/14@336px"
 hparams['dataset'] = 'geode'
 
 hparams['batch_size'] = 64*10
-hparams['device'] = "cuda" if torch.cuda.is_available() else "cpu"
+hparams['device'] = "cuda:7" if torch.cuda.is_available() else "cpu"
+# hparams['device'] = "cuda:7"
 hparams['category_name_inclusion'] = 'prepend' #'append' 'prepend'
 
 hparams['apply_descriptor_modification'] = True
@@ -76,7 +77,8 @@ hparams['descriptor_fname'] = None
 IMAGENET_DIR = '/proj/vondrick3/datasets/ImageNet/' # REPLACE THIS WITH YOUR OWN PATH
 IMAGENETV2_DIR = '/proj/vondrick/datasets/ImageNetV2/' # REPLACE THIS WITH YOUR OWN PATH
 CUB_DIR = '/proj/vondrick/datasets/Birds-200-2011/' # REPLACE THIS WITH YOUR OWN PATH
-GEO_DIR = '/local/data/xuanming/geode_flat/'
+GEO_DIR = '/local2/data/xuanming/geode_africa/'
+GEO_REGION = 'africa'
 
 # PyTorch datasets
 tfms = _transform(hparams['image_size'])
@@ -155,7 +157,7 @@ def show_from_indices(indices, images, labels=None, predictions=None, prediction
         indices = indices[:n]
     
     for index in indices:
-        show_single_image(images[index])
+        show_single_image(images[index], index, GEO_REGION)
         print(f"Index: {index}")
         if labels is not None:
             true_label = labels[index]

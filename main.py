@@ -11,11 +11,13 @@ dataloader = DataLoader(dataset, bs, shuffle=True, num_workers=16, pin_memory=Tr
 print("Loading model...")
 
 device = torch.device(hparams['device'])
+print("Using {} ...".format(device))
 # load model
 model, preprocess = clip.load(hparams['model_size'], device=device, jit=False)
 model.eval()
 model.requires_grad_(False)
 
+print('Images from {} ...'.format(GEO_DIR))
 print("Encoding descriptions...")
 
 description_encodings = compute_description_encodings(model)
@@ -84,3 +86,9 @@ accuracy_logs["Total CLIP-Standard Top-5 Accuracy: "] = 100*clip_accuracy_metric
 print("\n")
 for key, value in accuracy_logs.items():
     print(key, value)
+
+
+# Generate example decisions and explanations as well as contrast from CLIP decision
+print("-"*50)
+print("Generating contrasting examples for CLIP and the model")
+show_from_indices(torch.where(descr_predictions != clip_predictions)[0], images, labels, descr_predictions, clip_predictions, image_description_similarity=image_description_similarity, image_labels_similarity=image_labels_similarity)
