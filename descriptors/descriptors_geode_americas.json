@@ -1,0 +1,367 @@
+{
+    "bag": [
+        "Mainly made of leather, fabric or plastics",
+        "Handles or straps for carrying",
+        "Zippers, clasps, or buttons for closure",
+        "Pockets or compartments",
+        "Various sizes and colors",
+        "Design patterns may vary, could be solid, striped, checkered, or featuring different prints",
+        "It could either be hand-held, shoulder carried, backpack style or even wheeled in some cases."
+    ],
+    "hand_soap": [
+        "Label/information (in English, Spanish, French or Portuguese - main languages in The Americas)",
+        "Frequently has a pump dispenser",
+        "Can be translucent or opaque",
+        "Often colorful or white ",
+        "Usually small enough to be easily held by one hand",
+        "It can be liquid or solid (bar soap).",
+        "Brand logos (like Dial, Dove, Softsoap) ",
+        "Soap bubbles or foam."
+    ],
+    "dustbin": [
+        "Trash inside ",
+        "Materials can be plastic or metal",
+        "Usually black, green or blue in color",
+        "Sometimes shows recycling symbol or waste symbol",
+        "Can have lids or flaps at the top ",
+        "Larger bins may have wheels",
+        "Can be seen often in public places like streets, parks, or beside buildings."
+    ],
+    "toothbrush": [
+        "thin, elongated handle",
+        "brush head at one end of the handle",
+        "bristles on the brush head",
+        "made of plastic most of the time",
+        "can come in multitude of colors",
+        "sometimes electric with a charging stand ",
+        "might have a toothpaste tube nearby"
+    ],
+    "toothpaste_toothpowder": [
+        "Brand names specific to The Americas such as Crest, Colgate, or Arm & Hammer",
+        "Packaging often includes imagery related to cleanliness, such as sparkles or fresh mint leaves",
+        "Containers often feature small, circular openings",
+        "Often accompanied by a toothbrush",
+        "Generally comes in tube format, either upright or designed to lay horizontally."
+    ],
+    "hairbrush_comb": [
+        "bristles or teeth for detangling hair",
+        "handle for gripping",
+        "made of materials such as plastic, metal, or wood",
+        "come in various colors but often black, brown, or white. ",
+        "Some may have a mirror on their backs. ",
+        "If it's a foldable, it may have a hinge in the mid."
+    ],
+    "chair": [
+        "most commonly made of wood, plastic, or metal",
+        "a flat seat",
+        "may have armrests and backrest",
+        "sometimes may have cushioning on the seat and backrest",
+        "can come in different colors and designs depending on the style",
+        "might have decorative elements if it's an antique or specially designed chair."
+    ],
+    "hat": [
+        "Brim around the edge",
+        "Dome-shaped crown",
+        "Made of materials like straw, felt, or cotton",
+        "Could have embellishments like a bow, band, or feathers",
+        "May have a western cowboy style or baseball cap style depending on region in the Americas",
+        "Various colors and patterns."
+    ],
+    "light_fixture": [
+        "Connected to ceiling or wall",
+        "May be made of metal, glass, or plastic",
+        "May have lampshades to diffuse light",
+        "Could be paired with a light bulb",
+        "Can be designed with multiple light sockets ",
+        "May have switches or pull chains for controlling light ",
+        "May have decorative elements like ornamental patterns ",
+        "Sconces, chandeliers, pendant lights, recessed lights, or track lights types could be specific to The Americas."
+    ],
+    "light_switch": [
+        "Usually installed on a wall at a height accessible to a standing human",
+        "Small rectangular shape",
+        "Color often white or beige, matching the color of the wall",
+        "Can be a rocker, toggle or push-button style",
+        "A screw visible on the top and bottom of the switch plate",
+        "Often located near doorways ",
+        "May have one or multiple switches on a single plate for controlling different lights."
+    ],
+    "plate_of_food": [
+        "Typical American dishes like burgers, hot dogs, steaks, fries, etc.",
+        "Eating utensils like forks, knives, spoons, etc. ",
+        "Beverages like soda, beer, milkshakes etc.",
+        "Sides like salads, bread rolls, coleslaw, vegetables",
+        "Condiments like ketchup, mustard, BBQ sauce, etc. ",
+        "Desserts like apple pie, brownies, ice cream."
+    ],
+    "spices": [
+        "jars or packages with labels",
+        "powdery or granulated textures",
+        "various colors, like red, yellow, brown",
+        "different shapes and sizes of seeds, leaves, or bark",
+        "mortar and pestle",
+        "commonly used in The Americas: chili pepper, allspice, vanilla, cacao."
+    ],
+    "stove": [
+        "Knobs for temperature control",
+        "Burners where pots or pans can be placed",
+        "Some stoves have a range hood overhead",
+        "Usually metallic colours like silver, black, or white",
+        "Oven section below the burners",
+        "May also have a digital display panel",
+        "May be installed between countertops in a kitchen setup."
+    ],
+    "cooking_pot": [
+        "metallic or ceramic material",
+        "round or oval shape",
+        "handle or handles on the sides",
+        "a lid which may also have a handle",
+        "relatively heavy and solid",
+        "can be found over a stove or in a kitchen setting",
+        "comes in different sizes but generally large enough to prepare food",
+        "colors can vary, with a common one being stainless steel silver, black, or copper."
+    ],
+    "cleaning_equipment": [
+        "Broom, mop, or vacuum cleaner",
+        "Containers of cleaning solutions or detergents",
+        "Buckets or basins",
+        "Brushes and sponges",
+        "Protective gloves",
+        "Symbols or text in English, Spanish, Portuguese or other languages spoken in The Americas",
+        "Use in familiar environment such as a home, office, or janitorial room."
+    ],
+    "lighter": [
+        "small and handheld",
+        "rectangular shape with rounded corners",
+        "metal top where the flame is lit",
+        "button or wheel used to produce the flame",
+        "lighter fluid port, often seen at the bottom",
+        "often made from plastic or metal",
+        "may have branding or design elements on the body."
+    ],
+    "medicine": [
+        "Packaging featuring English/Spanish/Portuguese text",
+        "Common brand logos (like Tylenol, Advil, or Tums)",
+        "Bottle or box-shaped containers",
+        "Safety caps on bottles",
+        "Tablets, pills, or liquid formation",
+        "Labels include dosing instructions",
+        "FDA approval mark",
+        "Prescription bottles with labels",
+        "Communication of side effects or warnings on the packaging"
+    ],
+    "candle": [
+        "Wax or soy-based shape (cylindrical or square)",
+        "Wick in the center ",
+        "May be lit or unlit",
+        "Usually accompanied by a holder or candlestick",
+        "Can come in a variety of colors",
+        "May have a decorative design or pattern",
+        "Often used for lighting, ambiance, or aromatherapy."
+    ],
+    "toy": [
+        "Recognizable shapes (like action figures, baseballs, teddy bears, etc.)",
+        "Smaller in size compared to other objects",
+        "Often found in child-friendly environments (like a playroom, park, etc.)",
+        "May label or branding related to popular American cartoons or movies",
+        "Packaging specific to North or South American markets if unboxed"
+    ],
+    "jug": [
+        "It often has a handle",
+        "It usually has a spout for pouring",
+        "It could be round or oval in shape",
+        "Can be small or large in size",
+        "May have a lid or cork on top",
+        "Could have various colors and designs depending on the specific culture in The Americas"
+    ],
+    "streetlight_lantern": [
+        "tall vertical post",
+        "mounted light fixture at the top",
+        "predominantly metal or steel construction",
+        "color is usually green, black, silver or bronze",
+        "a distinct cover or shade over the bulb",
+        "may be located near roadways or sidewalks",
+        "style may vary, with some cylindrical or squarish",
+        "may vary between single or double lamp designs",
+        "some models may contain components for automated light control."
+    ],
+    "front_door": [
+        "Panel or solid design, with or without windows",
+        "Doorknob or handle, often on the right hand side",
+        "A mailbox or mail slot",
+        "Doorbell or knocker",
+        "Deadbolt or keyhole",
+        "Address number",
+        "Steps leading up to the door",
+        "In the U.S., typically outward opening",
+        "A threshold or a stoop."
+    ],
+    "tree": [
+        "shape and size of the tree",
+        "type of leaves (deciduous or evergreen)",
+        "shape, color and size of the leaves or needles",
+        "presence of fruits or flowers",
+        "branching pattern",
+        "the tree's overall shape or silhouette."
+    ],
+    "house": [
+        "varies in architectural style, can be ranch, colonial, victorian, modern, etc.",
+        "mostly made of wood, bricks, or concrete",
+        "typically two or more stories",
+        "rectangular or square shape",
+        "windows and doors",
+        "roof, can be flat or pitched, often with shingles",
+        "a front and/or backyard",
+        "a driveway or garage ",
+        "may have a porch or deck ",
+        "chimney."
+    ],
+    "backyard": [
+        "Fencing or boundaries",
+        "Outdoor furniture (like tables, chairs, or swing sets)",
+        "Landscaping elements (like trees, flowers, bushes, and gardens)",
+        "A house or building usually in the background",
+        "Other common backyard items like a grill, pool, or playset",
+        "Depending on the region, you might see specific types of vegetation or animal wildlife."
+    ],
+    "truck": [
+        "Four or more wheels",
+        "Heavy front bumper",
+        "Large side view mirrors",
+        "Cargo area or bed at the back",
+        "Can be various colors, but commonly white, black, blue or red ",
+        "Can have company logos or markings if it's a commercial truck",
+        "Step up into the cab indicating higher ground clearance."
+    ],
+    "waste_container": [
+        "Predominantly green, blue, black, or brown color",
+        "Usually comes with a lid",
+        "Symbols or text related to recycling, compost, or trash",
+        "Handles or grips on the sides",
+        "Wheeled base for easy movement",
+        "Positioned on the street, sidewalk, or designated areas."
+    ],
+    "car": [
+        "License plate possibly on the front and rear",
+        "Headlights and tail lights",
+        "Side mirrors, usually two",
+        "Steering wheel on the left side",
+        "Windshield wipers",
+        "Vehicle make or model insignia",
+        "Possibly a rectangular frame around the license plate",
+        "Variety of colors",
+        "A wide range of shapes, styles and sizes depending on the type of car (SUV, sedan, truck etc.)",
+        "Door handles."
+    ],
+    "fence": [
+        "Typically made of wood, metal, or vinyl",
+        "Common colors are white, brown, or green",
+        "Connected by posts at regular intervals",
+        "Can vary in height",
+        "May have a gate or opening",
+        "Forms a continuous barrier or boundary",
+        "Patterns such as lattice, picket, or chain link"
+    ],
+    "road_sign": [
+        "bold lettering, often white on a green or blue background for informational signs, or red and white for prohibitory or stop signs",
+        "use of particular symbols, such as a red octagon for a stop sign",
+        "often reflective or high-visibility material",
+        "mounted on a pole or post",
+        "located adjacent to or above a roadway",
+        "the use of arrows or other directive symbols."
+    ],
+    "dog": [
+        "covered with fur, which can be of various colors and lengths",
+        "a barking or panting mouth",
+        "a wet, pointed nose",
+        "rounded or pointed ears, standing up or hanging down",
+        "tail that wags",
+        "eyes that can vary in color from blue, to brown, to a mix of both",
+        "often wear collars, tags, or harnesses in The Americas."
+    ],
+    "wheelbarrow": [
+        "deep rectangular basin or 'tray'",
+        "metal or plastic material ",
+        "long handles at the back for pushing and steering",
+        "often found in construction or gardening contexts ",
+        "can be red, blue, green, or yellow",
+        "can be loaded with various materials, such as dirt, bricks, or plants"
+    ],
+    "religious_building": [
+        "Steeple or bell tower",
+        "Stained glass windows",
+        "Large doors",
+        "Altars or pulpits",
+        "Benches or pews in rows",
+        "Ornate architecture or statues",
+        "Often much larger in size than surrounding buildings"
+    ],
+    "stall": [
+        "Tent or booth structure",
+        "Can be of any color, but often seen in bright colors",
+        "Display of various goods, which can range from food, clothes, accessories, to souvenirs ",
+        "Price tags or labels in English or Spanish, or other languages spoken in the Americas ",
+        "Canopy or umbrella for shade",
+        "Stall keepers often dressed casually",
+        "Cash register or money box",
+        "Plastic, paper, or eco-friendly bags for purchased goods",
+        "Located in a market, fair, or street."
+    ],
+    "boat": [
+        "a deck, hull, and cabins for larger boats",
+        "sails and mast for a sailboat",
+        "fishing equipment for fishing boats",
+        "a motor at the back for motorboats",
+        "a prow at the front",
+        "rudders and propellers ",
+        "on water, typically sea or lakes",
+        "flags or identifiers that can signify the boat is from The Americas."
+    ],
+    "monument": [
+        "Large or impressive size",
+        "Recognizable shape",
+        "Historic inscriptions or plaques",
+        "Associated with historic events or figures",
+        "Tourists taking pictures around or in front of the monument",
+        "Often located in public, easily accessible areas",
+        "Flags or symbols of the country where the monument is located could be present."
+    ],
+    "flag": [
+        "Stars or other symbols on the flag",
+        "Colors representative of certain countries (like red, white and blue for the United States)",
+        "Flagpole ",
+        "Flags often blowing in the wind ",
+        "Shape - typically rectangular",
+        "Specific designs unique to particular countries"
+    ],
+    "bus": [
+        "Multiple windows in rows ",
+        "Big tires",
+        "A front and back door",
+        "Seats inside visible through windows",
+        "Destination sign/number above the front windshield",
+        "Bi-fold doors towards the front",
+        "Large side mirrors",
+        "Often brightly colored or with specific company branding",
+        "May have an extendable wheelchair ramp on the side near the front."
+    ],
+    "storefront": [
+        "a visible sign with the store's name",
+        "display of merchandise or advertisements in the windows",
+        "doors for customer entrance",
+        "often located on a street with other stores",
+        "may have an awning or a canopy",
+        "may feature lights around the display window or store sign",
+        "outdoor signage with business hours"
+    ],
+    "bicycle": [
+        "a frame connecting the wheels",
+        "a saddle seat",
+        "handlebars for steering",
+        "gear system (often in The Americas)",
+        "a chain connecting the gears and pedals",
+        "reflectors or lights for visibility",
+        "water bottle holder (common in The Americas)",
+        "helmet (common in The Americas)"
+    ]
+}

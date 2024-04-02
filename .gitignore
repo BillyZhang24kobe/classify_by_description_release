@@ -20,6 +20,7 @@ logs/*
 
 ### demo images ###
 figs/examples/*
+*.png
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -201,9 +202,12 @@ cython_debug/
 
 # Support for Project snippet scope
 .vscode/*.code-snippets
+.vscode
 
 # Ignore code-workspaces
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 n
+
+api_secrets.py

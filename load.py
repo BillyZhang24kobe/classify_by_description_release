@@ -77,8 +77,9 @@ hparams['descriptor_fname'] = None
 IMAGENET_DIR = '/proj/vondrick3/datasets/ImageNet/' # REPLACE THIS WITH YOUR OWN PATH
 IMAGENETV2_DIR = '/proj/vondrick/datasets/ImageNetV2/' # REPLACE THIS WITH YOUR OWN PATH
 CUB_DIR = '/proj/vondrick/datasets/Birds-200-2011/' # REPLACE THIS WITH YOUR OWN PATH
-GEO_DIR = '/local2/data/xuanming/geode_africa/'
-GEO_REGION = 'africa'
+GEO_DIR = '/local2/data/xuanming/geode_westasia/'
+# GEO_DIR = '/local/data/xuanming/geode_flat'
+GEO_REGION = 'westasia'
 
 # PyTorch datasets
 tfms = _transform(hparams['image_size'])
@@ -116,13 +117,16 @@ elif hparams['dataset'] == 'geode':
     hparams['data_dir'] = pathlib.Path(GEO_DIR)
     dataset = GEODEDataset(hparams['data_dir'], train=False, transform=tfms)
     classes_to_load = None #dataset.classes
-    hparams['descriptor_fname'] = 'descriptors_geode'
+    if GEO_DIR:
+        hparams['descriptor_fname'] = 'descriptors_geode_' + GEO_REGION
+    else:
+        hparams['descriptor_fname'] = 'descriptors_geode'
 
 
 hparams['descriptor_fname'] = './descriptors/' + hparams['descriptor_fname']
     
 
-print("Creating descriptors...")
+print("Creating descriptors... from " + hparams['descriptor_fname'])
 
 gpt_descriptions, unmodify_dict = load_gpt_descriptions(hparams, classes_to_load)
 label_to_classname = list(gpt_descriptions.keys())

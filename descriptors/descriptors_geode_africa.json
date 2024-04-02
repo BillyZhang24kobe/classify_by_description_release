@@ -1,0 +1,333 @@
+{
+    "bag": [
+        "container",
+        "made of various materials (leather, fabric, plastic, etc.)",
+        "portable",
+        "handles or straps",
+        "used for carrying personal items or goods",
+        "may feature colorful patterns, traditional African designs or symbols",
+        "can vary in size from small pouches to large travel bags or backpacks"
+    ],
+    "hand_soap": [
+        "small, often rectangular or round shape ",
+        "might be bar or liquid soap ",
+        "packaging or case may have African languages or local brand logos ",
+        "possibly displayed in a setting that looks like a bathroom or kitchen ",
+        "possible soap dispenser if it is liquid soap ",
+        "often found near a sink or a tap."
+    ],
+    "dustbin": [
+        "Top either flat or domed, sometimes with a opening for waste disposal",
+        "Usually made of plastic or metal ",
+        "Comes in various colors, but green, blue and grey are quite common",
+        "Might exhibit labels or signs related to waste disposal",
+        "May have a lid on top to prevent littering",
+        "Can be seen often near streets, parks, and other public places."
+    ],
+    "toothbrush": [
+        "Bristles on one end of the handle",
+        "Sometimes has a grip area on the handle",
+        "Variety of colors but often white or blue",
+        "Tubular handle shape",
+        "Sometimes seen near a sink, mirror, or tube of toothpaste"
+    ],
+    "toothpaste_toothpowder": [
+        "A cylindrical tube, often with a colorful design or branding",
+        "White or colored paste or powder ",
+        "Packaging with information written in local African languages or with images typical to Africa",
+        "The paste or powder may be shown being squeezed out of the tube or onto a toothbrush",
+        "It may also be found in local, distinctly African settings, like an African home or market."
+    ],
+    "hairbrush_comb": [
+        "Multiple thin, even bristles or teeth",
+        "Handle for holding the brush or comb",
+        "Mostly made of plastic, wood, or metal",
+        "Can be in a variety of colors, but often black, white, or brown."
+    ],
+    "chair": [
+        "backrest ",
+        "seat ",
+        "often made from wood, metal, or plastic ",
+        "sometimes has cushioning on the seat/backrest",
+        "could feature African design patterns or motifs if it is traditional African chair."
+    ],
+    "hat": [
+        "Brim around the edges",
+        "Made of different materials like fabric, straw, leather, or fur",
+        "May be colorful or adorned with African tribal patterns",
+        "Sometimes traditional with unique shapes depending on the specific African culture or tribe ",
+        "Often used for sun protection so could be under direct sunlight."
+    ],
+    "light_fixture": [
+        "Electrical wires connected to it",
+        "Mounted on the wall or ceiling",
+        "May have bulbs or tubes",
+        "Made of materials like glass, plastic, metal",
+        "May have switch or knob for operating",
+        "Could have unique African artistic designs, patterns, or colours",
+        "May have protective casing in outdoor settings",
+        "Illumination in the nearby area."
+    ],
+    "light_switch": [
+        "small, typically rectangular or square device",
+        "mounted on a wall",
+        "made of plastic or metal",
+        "white, cream, or colored to match the wall",
+        "one or more buttons or toggles",
+        "may have text or symbols indicating on/off positions"
+    ],
+    "plate_of_food": [
+        "A plate or bowl, typically circular",
+        "Food items common in African cuisine such as jollof rice, fufu, injera, couscous, or various types of stew",
+        "Bright and diverse colors",
+        "Use of vegetables, meats, and spices",
+        "Eating utensils like forks, spoons, or sometimes hands",
+        "Food served in a communal style, seen in many African cultures."
+    ],
+    "spices": [
+        "Variety of colors from different spices (red, yellow, brown)",
+        "Small bowls or bags filled with powder or whole spices",
+        "Specific spices such as cumin, turmeric, coriander, pepper that are common in Africa",
+        "The rustic grinding tools like a mortar and pestle",
+        "Spice markets or stalls",
+        "Spices may be on display in large, open containers or poured out onto a surface",
+        "The turban-wearing vendors typical of the African culture"
+    ],
+    "stove": [
+        "chimney or vents",
+        "can be made of clay, bricks, or modern materials such as stainless steel",
+        "areas for placing pots and pans",
+        "maybe seen indoor or outdoor depending on the type",
+        "fuel source like wood, charcoal, or gas cylinders",
+        "fire or smoke ",
+        "cooking utensils nearby",
+        "traditional African designs or markings for traditional stoves."
+    ],
+    "cooking_pot": [
+        "Large, round shape",
+        "Usually blackened due to soot from firewood",
+        "A lid might be present",
+        "Depending on the region, some pots may be decorated with intricate designs or patterns",
+        "Handles for lifting or moving",
+        "Often seen outdoors over a fire."
+    ],
+    "cleaning_equipment": [
+        "Cylindrical or flat shapes with long handles (for brooms and mops)",
+        "Often bright colored fibres at the end (for brooms and mops)",
+        "Involvement of buckets and cleaning detergents",
+        "Electronic equipment associated with a power cord (for vacuum cleaners)",
+        "Dust mask or gloves could also be an indicator of cleaning activity ",
+        "African specific context clues like African people, language on product labels, specific brands known to be in Africa, or African environments (such as homes or buildings typical in Africa)."
+    ],
+    "lighter": [
+        "flicker or flame if lit",
+        "usually made from plastic or metal",
+        "potential brands like BIC or Zippo",
+        "button or wheel for ignition",
+        "may have a protective cap."
+    ],
+    "medicine": [
+        "Medical equipment or supplies such as pill bottles, syringes, or medical boxes",
+        "Text or symbols indicating pharmaceutical brands or medical instructions",
+        "Medical personnel such as doctors or nurses",
+        "Local African context such as traditional healing herbs/plants, traditional healers or African-themed clinics or hospitals"
+    ],
+    "candle": [
+        "cylindrical or sometimes conical shape",
+        "typically white, ivory, or beeswax color, but could be any color",
+        "wick at the top",
+        "sometimes enclosed in glass or a holder",
+        "sometimes has melted wax around it",
+        "if lit, there will be a flame at the top",
+        "African context could be indicated by surrounding objects or environment, such as African decor, traditional African patterns, or African landscapes."
+    ],
+    "toy": [
+        "Can be of various shapes and sizes",
+        "May depict a popular character or animal",
+        "Common types might include dolls, cars, balls, etc.",
+        "Might be seen in the hands of a child or on a playground",
+        "If the photo captures the surroundings, African scenery or landmarks could be visible."
+    ],
+    "jug": [
+        "Usually large and cylindrical",
+        "Made from materials like clay, ceramic, or metal",
+        "Can have an round opening on the top",
+        "Often has a handle on the side",
+        "May have a spout for pouring liquids",
+        "May feature African designs or patterns."
+    ],
+    "streetlight_lantern": [
+        "mounted on a pole or attached to a building",
+        "typically made of metal or hard plastic",
+        "traditional or modern designs, with variations across different regions in Africa",
+        "may have solar panels attached, especially in rural or off-grid areas",
+        "emits light, so look for a glowing element in low-light conditions",
+        "often designed to be weather-resistant, with features like waterproof casings",
+        "might have distinctive shapes or colors that reflect local cultures or heritage"
+    ],
+    "front_door": [
+        "typically wooden or metal construction",
+        "presence of one or more locks or latches",
+        "colors can vary, but often brightly painted in various patterns or plain colors",
+        "may have window panes or decorative elements",
+        "presence of a door handle or knob",
+        "surrounded by a door frame",
+        "might be flanked by windows or other architectural features typical to African houses",
+        "could possibly have security features like bars or a metal gate."
+    ],
+    "tree": [
+        "Different shades of green in large, leafy areas",
+        "Bark textures that could be smooth, rough or flaky ",
+        "Tall, straight trunk",
+        "Unique shapes, such as umbrella or bottle shapes for baobab trees",
+        "May have very wide, thick trunks with smaller branches on top",
+        "Thorny branches or trunk for acacia trees",
+        "Presence of local wild animals or birds",
+        "The surrounding environment: savannah landscapes, desert, or tropical forest."
+    ],
+    "house": [
+        "Buff, brown or red colors denoting earth/dirt/clay construction material",
+        "Thatched or corrugated iron roofs ",
+        "One or two-story structures ",
+        "Simple, geometric structure with minimal adornment",
+        "Surrounded by vegetation or arid landscape, depending on geographical region",
+        "Overhanging eaves for shade and weather protection ",
+        "Outdoor cooking spaces or communal areas ",
+        "Absence of glass windows, replaced by wooden or metal shutters."
+    ],
+    "backyard": [
+        "Plants like Acacia, Baobab, or Elephant Grass",
+        "Distinctive African wildlife (if present) such as monkeys, birds etc",
+        "Soil, which could be red or brown depending on the location in Africa",
+        "African architectural design or styles if houses or structures are present",
+        "Materials used in fencing or boundary construction typical in Africa, such as wooden fencing, bamboo, or even thorn bushes.",
+        "Climate elements like intense sun or clear, blue skies."
+    ],
+    "truck": [
+        "Usually full of goods or containers",
+        "Possibly dusty or muddy owing to local conditions ",
+        "African scenery in the background",
+        "Detailed exterior parts like lights, wheels, large grill",
+        "Possible African company logos or regional language signs on the truck."
+    ],
+    "waste_container": [
+        "often made from plastic or metal",
+        "lid or opening at the top ",
+        "common colors include green, blue, brown or gray",
+        "may have signs or labels indicating the type of waste accepted ",
+        "could be accompanied by a disposal or recycling logo",
+        "depending on location, may see rubbish or litter disposed in or around it. ",
+        "in rural Africa, waste containers may be simple baskets or bins made of local materials."
+    ],
+    "car": [
+        "Metallic or painted body",
+        "Windows and windshield",
+        "Front and rear lights",
+        "Side mirrors",
+        "An engine section, usually in the front",
+        "African landscape or vehicle license plate that corresponds to an African country",
+        "Steering wheel inside the car ",
+        "Car doors."
+    ],
+    "fence": [
+        "Typically wooden or metal posts",
+        "Could be wire or wooden slat construction",
+        "It might be low to the ground or quite high, depending on its purpose",
+        "Could be in close proximity to local flora, fauna, or traditional African buildings",
+        "It may be in a rural or wilderness setting",
+        "It could have a gate or entry point ",
+        "May divide different areas of land."
+    ],
+    "road_sign": [
+        "metallic or reflective material",
+        "mounted on a pole or standalone structure",
+        "often square, rectangular, circular or triangular in shape",
+        "symbols, pictures, or words conveying traffic instructions",
+        "may use bright colors, particularly yellow, white, and red",
+        "wording could be in different languages depending on the country within Africa, for example French, English, Portuguese, Arabic or local languages. ",
+        "the terrain or landscape in the background may suggest an African setting."
+    ],
+    "dog": [
+        "furry coat, which can be various colors",
+        "long snout",
+        "majority have tails",
+        "pointed ears (though some breeds have floppy ears)",
+        "visible collar or markings from a leash, indicating domestication",
+        "if in Africa, background indicators could include African wildlife, landscapes or identifiable landmarks."
+    ],
+    "wheelbarrow": [
+        "Two legs at the back for stability",
+        "Handles at the rear",
+        "Generally made of metal or plastic",
+        "Usually used to carry loads, so often full of materials like dirt or plants",
+        "Commonly found in fields, gardens and construction sites ",
+        "In Africa context, check for local designs and typical usage environment, like farms, markets, or rural settings."
+    ],
+    "religious_building": [
+        "Features of distinct religions such as Crosses (for Christian churches), Islamic symbols like crescents (for mosques), etc.",
+        "Round or rectangular structures with thatched or tin roofs (common for traditional African religions)",
+        "Minarets for mosques",
+        "Steeples or towers for churches",
+        "Large gathering spaces (as religious buildings often serve as social community centres)",
+        "Stained glass windows (for Christian churches)",
+        "Symbols or carvings representing spiritual/religious entities."
+    ],
+    "stall": [
+        "Often with corrugated metal rooftops or sides",
+        "Selling local produce or goods",
+        "African-style handcrafted items",
+        "Sellers who are typically African people",
+        "Signage written in local or multiple languages",
+        "The presence of African landscapes or urban backgrounds",
+        "Animals such as goats or chickens roaming around could also hint the location."
+    ],
+    "boat": [
+        "Flat bottom or V-shaped hull ",
+        "Cabin or seating area",
+        "Engines or sails ",
+        "African landscape in the backdrop such as a river, lake or sea.",
+        "Human figures wearing African attire",
+        "Presence of African wildlife in the backdrop could also be a clue ",
+        "The design and style of the boat can also give a clue; for example, canoes and pirogues are common in Africa."
+    ],
+    "monument": [
+        "Symbols or representations of historical or cultural significance, possibly related to the African history or culture",
+        "May be placed in an open public place ",
+        "Surrounded by tourists or pedestrians",
+        "Often well-lit or spotlighted at night ",
+        "May be in proximity to signs providing information about the monument."
+    ],
+    "flag": [
+        "Possibly contains colors representative of African flags such as red, green, yellow, and black",
+        "Symbols or emblems representative of an African country",
+        "Mounted on a pole",
+        "Fluttering in the wind"
+    ],
+    "bus": [
+        "Multiple windows in rows",
+        "Doors for passenger entrance and exit",
+        "Usually brightly colored or adorned with local designs",
+        "Markings or text in local languages ",
+        "Crowds of people often found around it",
+        "Typically larger than surrounding cars or motorcycles",
+        "Traveling on predominantly dry, often unpaved, roads",
+        "Rural or urban African landscapes in the background"
+    ],
+    "storefront": [
+        "African language texts or symbols",
+        "Traditional African designs and colours on the storefront",
+        "Local African goods or products on display ",
+        "African people in and around the shop",
+        "Architectural styles common in Africa like thatched roofs, mud-brick walls, brightly painted walls",
+        "African landscape or street scenes in the background."
+    ],
+    "bicycle": [
+        "bike frame",
+        "handlebars",
+        "bike seat",
+        "often seen on rural roads, dirt roads, or in village settings in Africa",
+        "local people riding them",
+        "goods or cargo loaded on them, often seen in African settings",
+        "may be old and well-used indicating heavy usage typical in various parts of Africa."
+    ]
+}

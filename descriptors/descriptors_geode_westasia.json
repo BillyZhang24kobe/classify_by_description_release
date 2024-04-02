@@ -1,0 +1,353 @@
+{
+    "bag": [
+        "Straps or handles for carrying",
+        "Materials like leather, cloth, or woven reeds",
+        "Embellishments such as embroidery, beading, or metallic accents, these can sometimes be indicative of the region",
+        "Traditional patterns or colors associated with West Asia",
+        "Shapes - could be anything from backpacks, handbags to satchels or tote bags",
+        "Buckles, zippers, or fastenings",
+        "Might be seen carried by individuals or being sold in markets."
+    ],
+    "hand_soap": [
+        "usually small in size ",
+        "the presence of pump if it's liquid soap",
+        "words or labels indicating it's hand soap, often in Arabic or other West Asian languages",
+        "soap bars may come in colors like white, yellow, pink, or purple",
+        "usually found in bathrooms, kitchens, or sinks areas."
+    ],
+    "dustbin": [
+        "usually made of plastic or metal",
+        "typical colors are green, blue, grey or black",
+        "a lid on top, often with a hinge for opening",
+        "may have a foot pedal for hands-free opening",
+        "may have wheels at the bottom for easy transportation",
+        "may display symbols or words related to waste disposal",
+        "located typically in streets, parks, or corners of a room or space."
+    ],
+    "toothbrush": [
+        "small size",
+        "long handle with bristles on one end",
+        "typically plastic, though can vary in material",
+        "variety of colors",
+        "often positioned near water sources (sinks, etc.)",
+        "may be found in bathrooms or toiletry kits."
+    ],
+    "toothpaste_toothpowder": [
+        "Usually has a cap or lid",
+        "Often white or mint-colored substance",
+        "Branding or labels might be in Arabic or other West Asian languages",
+        "May show signs of use like creases in the tube or powder residue on the container.",
+        "Could be seen in a bathroom setting or near tooth brushes."
+    ],
+    "hairbrush_comb": [
+        "Rows of rigid but small pins or bristles",
+        "May be made of plastic, wood or metal",
+        "Shapes can vary but often rectangular or oval ",
+        "Could have a pointed end for sectioning hair",
+        "Could be a variety of colors, but often black or brown",
+        "May have decorative or cultural designs related to West Asia on the handle or back of the comb"
+    ],
+    "chair": [
+        "generally a four-legged item",
+        "straight or slightly curved backrest",
+        "made from materials like wood, metal or plastic",
+        "sometimes padded or covered in fabric",
+        "might include intricate designs or carving specific to West Asian style",
+        "might include ornate, jewel or metal embellishments indicating cultural influence",
+        "could have rounded or geometrically patterned armrests",
+        "might be placed on a woven carpet, a common feature in West Asian interiors."
+    ],
+    "hat": [
+        "might be made from wool or felt",
+        "often features elaborate embroidery or embellishments",
+        "varying colors, but often seen in darker shades like black, brown, or dark green",
+        "may have tassels or fringes",
+        "can be seen worn on the top of the head of a person",
+        "might be large enough to cover the whole top of the head, or small and fit snugly."
+    ],
+    "light_fixture": [
+        "cylindrical or geometric shaped",
+        "often made of metal, glass or ceramic",
+        "intricate patterns or designs, often reflective of local culture",
+        "can be hanging from the ceiling or mounted on walls",
+        "uses bulbs or candles to produce light",
+        "can have color tints like blue, green or yellow",
+        "might have ornamental fringe or edge details",
+        "ornate or elaborate designs, reflective of Middle Eastern influence."
+    ],
+    "light_switch": [
+        "Wall-mounted position",
+        "Long and narrow rectangular shape",
+        "Switch lever or push button for operation",
+        "Usually found near the entrance of rooms or nearby doorframes",
+        "Often white, cream or light in color",
+        "May also feature labels for on/off function",
+        "Some may have two switches to control different light sources."
+    ],
+    "plate_of_food": [
+        "Flatbreads or rice as staple food items",
+        "Variety of grilled meats or kebabs",
+        "Dishes like hummus, falafel, or tabbouleh",
+        "Use of spices such as saffron, turmeric, cumin",
+        "Presence of olives or olive oil ",
+        "Lots of fresh vegetables and fruits",
+        "Foods may be arranged in a communal eating style."
+    ],
+    "spices": [
+        "Different color variations: red, yellow, brown, black, white",
+        "Can be seen in clear glass jars or in bags",
+        "Often in dried form",
+        "Can be seen in a market setting or in a kitchen",
+        "Some common ones include saffron, turmeric, cumin, and coriander."
+    ],
+    "stove": [
+        "rectangular or square in shape",
+        "presence of burners or heating elements",
+        "knobs or dials on one side",
+        "often accompanied by an oven or a grill",
+        "may have a chimney or an exhaust fan above it",
+        "a gas line or electrical cord might be visible."
+    ],
+    "cooking_pot": [
+        "Made of materials such as metal, clay or ceramic",
+        "May have a lid",
+        "Handles on the sides",
+        "Might include intricate designs",
+        "Darker colors due to usage over a fire",
+        "May have a thick, sturdy bottom for cooking on various heat sources."
+    ],
+    "cleaning_equipment": [
+        "brushes, brooms, or mops with long handles",
+        "dustbins and trash cans",
+        "vacuum cleaners",
+        "buckets with cleaning liquids",
+        "cloth rags or sponges",
+        "various shapes and sizes depending on the specific cleaning tool",
+        "use within a residential or commercial setting"
+    ],
+    "lighter": [
+        "Rectangular or oval shape",
+        "Metallic or plastic material",
+        "Flint or electric spark mechanism",
+        "Button or switch for ignition",
+        "Small hole on the top for flame",
+        "May bear brand logos or designs",
+        "Often handheld."
+    ],
+    "medicine": [
+        "pharmaceutical bottles or boxes",
+        "labels in Arabic or other West Asian languages",
+        "medical symbols or logos, such as the snake-entwined rod ",
+        "tablets, capsules, or liquid form medicines",
+        "typically sold in pharmacies or health stores",
+        "may show forms of traditional medicine unique to West Asia like herbal remedies ",
+        "may have names of West Asian pharmaceutical companies ",
+        "doctor's prescriptions or health reports written in local languages."
+    ],
+    "candle": [
+        "Flame at the top",
+        "Often in a holder or a stand",
+        "Can be of any color",
+        "Can be simple or decorative with intricate designs",
+        "Possibly embellished with images, symbols, or writing particular to West Asian culture",
+        "May be surrounded by traditional West Asian decor or architecture."
+    ],
+    "toy": [
+        "Small in size",
+        "Bright, multiple colors",
+        "Made of plastic, wood, or fabric",
+        "Could be shaped like animals, vehicles, or dolls",
+        "Might have movable parts",
+        "Might be modeled after popular characters or traditional West Asian figures or symbols",
+        "Would appear not to serve a practical function",
+        "May be held or surrounded by children."
+    ],
+    "jug": [
+        "often decorated with intricate patterns or designs",
+        "may have a round body ",
+        "a spout for pouring ",
+        "a handle on one side",
+        "often lidless",
+        "traditional or antique look",
+        "style and ornamentation reflect West Asian culture or tradition."
+    ],
+    "streetlight_lantern": [
+        "Mounted light fixture",
+        "Globe, rectangular, or hexagonal-shaped covers",
+        "Metal framework",
+        "Positioned on sidewalks or road sides",
+        "Can be found in an urban environment or alongside a roadways",
+        "Often associated with evening or nighttime scenes",
+        "In West Asia, they might have more ornate, intricate designs or patterns."
+    ],
+    "front_door": [
+        "hinges on one side",
+        "some kind of handle or knob",
+        "may contain decorative elements reflecting West Asian styles, such as intricate designs or mosaics",
+        "may incorporate materials commonly used in West Asia, such as wood or metal",
+        "probable presence of a doorway or archway",
+        "could have features common in the region like a door knocker or unique lock system",
+        "may include additional elements like a small entrance rug or a welcome sign."
+    ],
+    "tree": [
+        "Dense or sparse foliage based on type",
+        "Colors ranging from various shades of green to brown, depending on the season",
+        "Local species like date palms or olive trees",
+        "Roots that can be both below and above ground",
+        "Leaves that can vary in size and shape based on species",
+        "Fruits or flowers that are season-dependent and species-specific."
+    ],
+    "house": [
+        "Light-colored exterior, often in white or beige",
+        "Built using materials like mud, brick or stone",
+        "Architectural design influenced by Islamic culture",
+        "The use of arches and columns",
+        "Can feature a courtyard",
+        "Decorative tiles or mosaics",
+        "Often surrounded by high walls for privacy",
+        "Sometimes with balconies or terraces",
+        "May feature large, ornate doors and windows with shutters."
+    ],
+    "backyard": [
+        "Residential structures with flat roofs ",
+        "Ornate architecture or tiles",
+        "Palm trees or similar vegetation",
+        "Courtyard-style gardens with water features",
+        "Use of shade structures like pergolas ",
+        "Fences or walls for privacy. ",
+        "Outdoor seating or dining areas ",
+        "Features that indicate hot climate e.g. outdoor fans, parasols, etc."
+    ],
+    "truck": [
+        "Large wheels",
+        "Large front grille",
+        "May have a company logo or advertisement printed on its side",
+        "High cabin with side mirrors",
+        "May have a cargo area at the back",
+        "May be equipped with a horn or front guard",
+        "Unique painting or decoration designs related to West Asian culture or motifs."
+    ],
+    "waste_container": [
+        "Often round or rectangular in shape",
+        "Large, typically taller than wide",
+        "Usually green, blue, or grey",
+        "May have lids",
+        "May have labels or symbols indicating waste disposal",
+        "Could be on the street, outside a building, or in a public area",
+        "Sometimes on wheels for easy transport",
+        "Possibly has a handle for lifting"
+    ],
+    "car": [
+        "Typical car shape with wheels",
+        "Steering wheel on the right side",
+        "Vehicle brands typically found in West Asia like Toyota, Hyundai, Nissan",
+        "License plate design and language consistent with West Asia",
+        "Background and setting matching West Asian architecture and landscapes",
+        "People in the car wearing clothing consistent with West Asian culture."
+    ],
+    "fence": [
+        "Made from materials like wood, metal or stone",
+        "Can be picket, wire mesh, or solid walls",
+        "Sometimes, these might have traditional or Islamic design elements",
+        "Can be in an arid or desert environment if in rural or non-urban parts of West Asia",
+        "Surrounding landscape could include West Asian style architecture or flora."
+    ],
+    "road_sign": [
+        "clipart-style graphics or symbols",
+        "text scripts may be in Arabic or other local languages",
+        "reflectorized material for visibility at night",
+        "mounted on a pole or overhead gantry",
+        "usually in bright and noticeable colors like red, yellow, green, blue, or black and white",
+        "can be found at road sides or intersections",
+        "might contain numbers to indicate speed limits or distance."
+    ],
+    "dog": [
+        "four-legged mammal",
+        "various colors such as black, white, brown, grey, or mixed",
+        "hairy coat, which may be short or long, curly or straight",
+        "erect, semi-erect or drooping ears",
+        "a wagging tail, which varies in length ",
+        "a wet nose",
+        "distinctive breeds common in West Asia, such as Afghan Hound, Saluki, or Anatolian Shepherd."
+    ],
+    "wheelbarrow": [
+        "Single wheel at the front",
+        "Two handles at the rear",
+        "A large rectangular or semi-circular bin or tub",
+        "Typically made of steel or plastic and often painted in bright colors",
+        "Sometimes found in construction sites or gardens",
+        "May be loaded with materials like dirt, bricks, plants or tools."
+    ],
+    "religious_building": [
+        "Dome-shaped structures",
+        "Minarets or towers",
+        "Arched doors and windows",
+        "Geometric or floral patterns and calligraphy on walls",
+        "Often built with stone or brick ",
+        "Large courtyard",
+        "Use of arches and vaults in construction ",
+        "Presence of prayer halls."
+    ],
+    "stall": [
+        "Presence of goods for sale such as foods, spices, textiles, jewelry, etc.",
+        "Vendor or sales person, possibly dressed in traditional West Asian attire. ",
+        "Signage might be in Persian, Arabic, or other West Asian languages or scripts.",
+        "Located possibly in a bustling market or bazaar.",
+        "Traditional Middle Eastern architectural elements in the background such as domes, arches or mosaics.",
+        "Tents or awnings providing shade. ",
+        "Traditional rugs or carpets. ",
+        "Outdoor setting."
+    ],
+    "boat": [
+        "Mostly made of wood, metal, or fiberglass",
+        "Generally have one or more masts with sails",
+        "Typically equipped with an outboard motor or a propeller",
+        "May have a cabin or open deck space",
+        "Can often be found in bodies of water (such as the Arabian Sea, Persian Gulf, Caspian Sea, etc.)",
+        "May be seen near a dock or port",
+        "Can have various colors but largely dominated by hues of blue, white or brown."
+    ],
+    "monument": [
+        "domes and minarets",
+        "intricate patterns or calligraphy",
+        "often built with materials such as stone or brick",
+        "arched doorways or windows",
+        "located in open squares or elevated places",
+        "often has historical or religious significance."
+    ],
+    "flag": [
+        "Varied colors depending on the country, such as green, red, white, black, and blue",
+        "Symbolic designs or emblems, which may include stars, crescents, or scripts ",
+        "Rectangular in shape",
+        "Mostly, vertical or horizontal strips",
+        "Sometimes, attached to a flagpole."
+    ],
+    "bus": [
+        "Multiple windows in rows",
+        "Distinct front with large windscreen ",
+        "Large side doors for passengers",
+        "Logo or branding of local transport services ",
+        "Number plate design specific to West Asia",
+        "Landscape or architecture typical of West Asia in the background",
+        "Crowded with passengers or stationed at a bus stop",
+        "People entering/exiting the bus",
+        "Written text \u2013 destination, route details, in a language commonly used in West Asia."
+    ],
+    "storefront": [
+        "Arabic or Persian signs or scripts",
+        "Built with traditional architectural designs of West Asia like arches and mosaics",
+        "Products like spices, textiles, and traditional arts and crafts displayed in the store's entryway",
+        "Middle Eastern decor such as lanterns and rugs",
+        "May show people wearing traditional West Asian clothing",
+        "Merchandise arranged on shelves and counters observable from outside."
+    ],
+    "bicycle": [
+        "handlebars for steering",
+        "a seat for the rider",
+        "a frame connecting the wheels",
+        "pedals for propelling the bicycle",
+        "usually, thinner tires compared to Western bicycles",
+        "sometimes, baskets or racks for carrying goods",
+        "the background or landscape might show features typical of West Asia such as architecture, vegetation, landmarks or people's clothing."
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "bag": [
+        "Handles or straps",
+        "Made of materials such as cloth, leather, plastic, or straw",
+        "Patterns or designs that might reflect Asian culture",
+        "Often seen carried by people or stored in various settings like markets, streets, or homes. ",
+        "Zippers, clasps, or buttons",
+        "Varying sizes ",
+        "May have brand logos or labels"
+    ],
+    "hand_soap": [
+        "generally packaged in a plastic bottle",
+        "pump dispenser or squeeze bottle",
+        "identifiable brand logo and label in various languages including English, Vietnamese, Thai, Bahasa Indonesia, or others used in Southeast Asia",
+        "often brightly colored or clear liquid visible inside the bottle",
+        "images or illustrations of a hand, bubbles, or specific ingredients on the label",
+        "liquid, bar, or foam form visible ",
+        "usually seen in bathroom or kitchen setting"
+    ],
+    "dustbin": [
+        "lid or open top",
+        "generally made of plastic or metal",
+        "may have a pedal for hands-free opening",
+        "often bears signage indicating waste disposal",
+        "commonly found near streets, parks, alleyways, or buildings",
+        "available in various colors but predominantly green, blue, or grey in Southeast Asia",
+        "sometimes has labels for specific types of waste (e.g., organic, recyclable, general waste)  ",
+        "in public areas, it may be stationed next to a cleaning cart or maintenance area."
+    ],
+    "toothbrush": [
+        "bristles at one end",
+        "handle at the other end",
+        "could come in various colors ",
+        "may be seen near a tube of toothpaste, a sink, or a bathroom",
+        "the bristle design might be unique to Southeast Asia's market."
+    ],
+    "toothpaste_toothpowder": [
+        "typically comes in a small box or tin",
+        "has powdery consistency",
+        "often has Southeast Asian languages and/or brands on the label",
+        "usually has images or graphics indicating dental hygiene or fresh breath on the packaging."
+    ],
+    "hairbrush_comb": [
+        "Long, narrow with a handle ",
+        "Rows of thin, evenly-spaced teeth ",
+        "Typically made of plastic, metal, or wood",
+        "Usually found in bathroom or bedroom settings ",
+        "May be found near other grooming products like hair products, mirrors, or towels. ",
+        "Variations in design and style, influenced by local culture or materials."
+    ],
+    "chair": [
+        "a seat and a backrest ",
+        "possibly made of bamboo, teak or rattan, common materials in Southeast Asia ",
+        "intricate carvings or designs, representative of Southeast Asian cultures ",
+        "It may also be low sitting or a floor chair, common in some Southeast Asian cultures",
+        "could be seen being used indoor or outdoor."
+    ],
+    "hat": [
+        "Made from lightweight materials such as straw or bamboo",
+        "Often a chin strap to keep the hat in place",
+        "Can include unique aspects of regional style or traditional designs",
+        "Depending on the type, it may have a pointed or flat top",
+        "Often worn outdoors, in farming or market scenes."
+    ],
+    "light_fixture": [
+        "lighting source such as a bulb or LED",
+        "can be hanging, wall-mounted, standing or recessed",
+        "fixtures can be made of various materials like metal, wood, glass, or plastic",
+        "some may have specific Southeast Asian design features, including lantern-like structures, local decorative arts and crafts ",
+        "may have a switch or cord for turning on and off",
+        "comes in various shapes and sizes",
+        "colors can vary, and some may be painted or stained with designs."
+    ],
+    "light_switch": [
+        "often white or beige",
+        "typically plastic",
+        "located on walls",
+        "switch lever to turn on and off",
+        "may have one or two switch buttons",
+        "standardized symbols for on-off ",
+        "sometimes they have a red or green indicator light."
+    ],
+    "plate_of_food": [
+        "Presence of rice or noodles",
+        "Exotic fruits and vegetables",
+        "Spices and herbs",
+        "Curries or soups",
+        "Seafood or chicken",
+        "Use of chopsticks or spoons for eating",
+        "Plates or bowl made up of bamboo or ceramics",
+        "Commonly served with a side of sauces or dips."
+    ],
+    "spices": [
+        "Seeds, roots, tree barks or small powdery substances ",
+        "Different sizes and shapes of spice containers",
+        "Cinnamon sticks, pepper corns, star anise, turmeric roots, coriander seeds or saffron strands",
+        "Labeled jars or packaging materials of spices with Southeast Asian languages ",
+        "Traditional grinding tools made of stone or metal",
+        "Spices commonly seen in local market settings or traditional kitchens."
+    ],
+    "stove": [
+        "may be fueled by gas or electricity",
+        "can be a portable or fixed structure",
+        "generally equipped with a series of burners or hotplates ",
+        "may include a built-in oven",
+        "knobs or dials for adjusting heat",
+        "a chimney, in the case of traditional wood or coal burning stoves",
+        "woks or pans may be present"
+    ],
+    "cooking_pot": [
+        "made of metal, such as aluminium, stainless steel, or cast iron",
+        "usually have handles or ears on both sides",
+        "some may have a lid",
+        "could be on a heat source such as a stove or open flame",
+        "often larger in size to accommodate communal cooking",
+        "can be used with a variety of cooking utensils like ladles or spatulas."
+    ],
+    "cleaning_equipment": [
+        "Plastic buckets and basins in various colors",
+        "Hand-held scrub brushes",
+        "Sponges and mops",
+        "Extension poles for high reach cleaning",
+        "Liquid soap and detergent containers",
+        "Cleaning cloths and rubber gloves",
+        "Compact vacuum cleaners."
+    ],
+    "lighter": [
+        "small size ",
+        "usually rectangular with curved edges ",
+        "often made of metal or plastic",
+        "a button or wheel to ignite",
+        "a flame or spark when lit",
+        "may have local brand names or pictures familiar to the Southeast Asian market",
+        "could be found in hands or around smoking-related scenes."
+    ],
+    "medicine": [
+        "Packaging styles unique to Southeast Asia",
+        "Unique brand logos or symbols that are recognizable in Southeast Asia",
+        "Pill shapes and colors that are common in Southeast Asian medicines",
+        "Images of common Southeast Asian medicinal herbs or ingredients on the packaging",
+        "Barcodes or QR codes for authenticating the medicine in Southeast Asia."
+    ],
+    "candle": [
+        "typically cylindrical or taper-shaped",
+        "made of wax",
+        "has a wick in the middle",
+        "may be lit with a visible flame",
+        "can come in a variety of colors",
+        "may be situated in a candle holder ",
+        "often used in temples or ceremonies",
+        "can have intricate designs and patterns common to Southeast Asia."
+    ],
+    "toy": [
+        "Often based on traditional characters or animals",
+        "Made of different materials including plastic, wood, fabric, and metal",
+        "Can come in a range of sizes, from small handheld toys to larger play sets",
+        "Might show cultural influences, such as Thai puppet dolls, Malaysian spinning tops, or Vietnamese water puppets. ",
+        "Packaging may have Asian languages or symbols on it."
+    ],
+    "jug": [
+        "typically made of clay, ceramic, metal or glass",
+        "cylindrical or round in shape",
+        "has a handle ",
+        "often has a narrow neck and a spout for pouring ",
+        "may be decorated with local designs or colors ",
+        "may be seen in contexts such as kitchens, dining areas, or outdoor markets."
+    ],
+    "streetlight_lantern": [
+        "cylindrical or sometimes lantern-like shape",
+        "supported on a tall pole",
+        "often metal construction",
+        "emits a bright light (especially noticeable in dusk or night photos)",
+        "usually located along the roadside or pathway",
+        "sometimes may have Asian-inspired decorative elements",
+        "can range in size from small and subtle to large and impactful."
+    ],
+    "front_door": [
+        "Made of wood, metal, or glass",
+        "May have intricate designs or carvings, especially in wood ",
+        "Can be brightly colored in some regions ",
+        "Handles or knobs for opening",
+        "May have decorations or symbols related to local culture or religion",
+        "Often surrounded by a frame or archway ",
+        "Presence of a step or threshold at the bottom",
+        "May have a distinctive letterbox or house number plate."
+    ],
+    "tree": [
+        "Broad, lush green leaves or needle-like leaves",
+        "Tropical foliage",
+        "Thicker, sometimes visible root structures due to rainforest humidity",
+        "Barks may vary from smooth to very rough, depending on the species",
+        "Species like palm trees, banyan trees, or bamboo are common",
+        "Some trees may have fruits, like banana trees, durian trees, and coconut palms",
+        "Some may have vines hanging down or growing up the tree."
+    ],
+    "house": [
+        "stilt houses in rural areas ",
+        "geometric patterned tiles",
+        "brightly colored exterior ",
+        "slanted, tiled or thatched roofs",
+        "lush, tropical vegetation around ",
+        "use of natural, local materials like bamboo, rattan, and timber."
+    ],
+    "backyard": [
+        "Presence of unique southeast asian plants such as bamboo or coconut trees",
+        "Possible view of traditional Southeast Asian architecture",
+        "Mosquito nets or other tropical weather adaptations",
+        "Bright, warm and humid climate with abundant sunlight in the picture",
+        "Presence of unique Southeast Asian animals/birds or insects. ",
+        "Tiles flooring or garden paths are common",
+        "Decorative features like koi ponds or Buddhist statues."
+    ],
+    "truck": [
+        "Four or more large, bulky tires",
+        "High front driving cab ",
+        "Large cargo area with either open or closed top",
+        "Shapes may vary from flatbeds, dumpers, tippers, or tankers",
+        "Logos or text, potentially in languages from Southeast Asia such as Thai, Vietnamese, Indonesian etc.",
+        "Seen transport goods, livestock or people",
+        "In Southeast Asian settings like roads with typical regional architecture, landscapes or traffic signs."
+    ],
+    "waste_container": [
+        "Can be made of plastic or metal",
+        "Common colors are green, blue, or gray ",
+        "Often has a lid",
+        "Sometime features symbols or texts to denote its purpose",
+        "Can be found outdoors near streets, parks, or commercial areas",
+        "Might have unique features like peddles for hands-free operation",
+        "Might have separate compartments for different types of waste (organic, recyclable) in some areas."
+    ],
+    "car": [
+        "a body of varying colors",
+        "windows and mirrors",
+        "possibly right-hand drive, as most countries in Southeast Asia follow right-hand traffic rules",
+        "possibly smaller size, as compact and economy cars are highly popular in Southeast Asia due to dense population and narrow roads",
+        "license plates with non-English characters or unique numbering systems associated with Southeast Asian countries",
+        "sometimes, additional accessories like scoops or spoilers as modifications are quite common in Southeast Asia."
+    ],
+    "fence": [
+        "Configuration of a boundary or barrier",
+        "Made from materials like bamboo, wood, or metal",
+        "Various styles such as picket, palisade, or lattice",
+        "Frequently seen in rural and suburban areas ",
+        "May be decorated with local Southeast Asian elements or motifs."
+    ],
+    "road_sign": [
+        "Symbols or text on the sign",
+        "Might be in English or local languages like Thai, Vietnamese, or Indonesian",
+        "Mounted on a pole",
+        "Highly reflective surface for visibility at night",
+        "Often in red, blue, yellow or white colors",
+        "Might include specific road instruction or information."
+    ],
+    "dog": [
+        "Has a tail",
+        "Fur covering the body, with potential colors ranging from white, black, brown, gray, or a mix",
+        "Ears could be droopy or erect depending on the breed",
+        "Snout as its nose",
+        "May have a collar or leash",
+        "Generally domesticated and seen with humans or in human habitats",
+        "Varieties in size from small to large depending upon the breed."
+    ],
+    "wheelbarrow": [
+        "A long handle at one end",
+        "A large, shallow rectangular or curved container at the other end for carrying loads",
+        "Usually made of metal or plastic materials",
+        "Commonly found in construction sites, gardens, farms, or markets. ",
+        "In Southeast Asia context, it might be used in rural settings or street markets."
+    ],
+    "religious_building": [
+        "Large statues of religious figures, often Buddha, in Southeast Asia.",
+        "Gold, red, or white colors are often dominant.",
+        "Elements of nature, like gardens, lotus ponds, and trees incorporated into the design.",
+        "Ornate artistic details, like carvings and murals.",
+        "Large, complex layouts with multiple buildings and courtyards, particularly in Buddhist monasteries.",
+        "Often located in picturesque locations, such as on top of hills, by rivers, etc. ",
+        "Distinct architecture styles such as Thai, Cambodian (Angkor), Burmese, and Balinese styles in Southeast Asia, which are different from Western religious building styles."
+    ],
+    "stall": [
+        "Often covered with a tarp or other material for shade",
+        "Variety of goods for sale, such as food, clothes, accessories, souvenirs",
+        "Street-side location ",
+        "Vendor usually present ",
+        "Signs displaying prices, often in local currency",
+        "Local people as customers",
+        "Surrounding environment may depict Southeast Asian architecture or features",
+        "Foods or items indigenous to Southeast Asia may be noticeable."
+    ],
+    "boat": [
+        "Colorful decorations or paintings",
+        "Canopy or awning over passenger seating area",
+        "Baskets or nets indicating fishing equipment",
+        "Typically seen on the water, often near beaches or islands",
+        "Constructed from wood or bamboo materials in some cases",
+        "Motor at the back of the boat attached to a long metal shaft with a propeller at the end."
+    ],
+    "monument": [
+        "Architectural structures such as stupas, temples, or statues",
+        "Scripts and inscriptions, often in local languages",
+        "Ornate carvings and detailed craftsmanship",
+        "Use of materials such as stone, brick, or gold",
+        "Location can also be a clue, as many Southeast Asian monuments are set in historical or significant natural environments. ",
+        "Elements representing cultural uniqueness of specific country in Southeast Asia (For example, Thangka in Thailand, Pagoda in Myanmar, Angkor wat in Cambodia and Borobudur in Indonesia.)"
+    ],
+    "flag": [
+        "A pole or mast",
+        "Bold and vibrant colors like red, white, blue, yellow or green",
+        "Specific symbols or emblems, such as stars, stripes or crescents",
+        "Often have geometric patterns or designs",
+        "May have unique cultural or historical symbols related to the specific Southeast Asian country."
+    ],
+    "bus": [
+        "multiple windows in a row ",
+        "side doors for entry and exit",
+        "can be multiple colors but often brightly colored or has graphics",
+        "conductors may be seen hanging off side doors",
+        "generally more overcrowded than western buses",
+        "may have signage in local languages, English or numbers",
+        "typically, they have larger and wider front and rear bumpers for passenger safety."
+    ],
+    "storefront": [
+        "Multiple signage, often with Asian scripts",
+        "The storefront is generally narrow and multi-storied",
+        "Merchandise or food placed in front of the store",
+        "Bright, colorful advertisements and lights",
+        "Traditional Asian architectural design for some stores",
+        "Street vendors and packed streets often in the vicinity",
+        "Tropical vegetation in case outdoor areas are also visible."
+    ],
+    "bicycle": [
+        "handlebars",
+        "a saddle (seat)",
+        "one or more gear mechanisms",
+        "bicycle baskets or carriers, often used in Southeast Asia ",
+        "bright colors or decorations, commonly seen in Southeast Asia",
+        "people riding without helmets which is common in some parts of Southeast Asia",
+        "narrow tires",
+        "buildings, greenery or traffic typical of Southeast Asia in the background."
+    ]
+}
