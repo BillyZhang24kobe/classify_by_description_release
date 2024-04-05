@@ -131,7 +131,7 @@ def obtain_descriptors_and_save(filename, class_list):
         json.dump(descriptors, fp)
     
 
-def obtain_geode_descriptors_and_save(filename, class_list, region_name=''):
+def obtain_geode_descriptors_and_save(filename, class_list, modelname='gpt-3.5-turbo-0125', region_name=''):
     responses = []
     descriptors = {}
     descriptors_list = []
@@ -152,7 +152,7 @@ def obtain_geode_descriptors_and_save(filename, class_list, region_name=''):
     
     # most efficient way is to partition all prompts into the max size that can be concurrently queried from the OpenAI API
     responses = [client.chat.completions.create(
-            model="gpt-4",
+            model=modelname,
             messages=prompt
         )  for prompt_partition in partition(prompts, 20) for prompt in prompt_partition]
     response_texts = [r.choices[0].message.content for r in responses]
@@ -166,7 +166,7 @@ def obtain_geode_descriptors_and_save(filename, class_list, region_name=''):
         print(key)
         prompt = generate_region_prompt(key.replace('_', ' '), region_name)
         response_text = client.chat.completions.create(
-            model="gpt-4",
+            model=modelname,
             messages=prompt
         ).choices[0].message.content
         descriptors[key] = stringtolist(response_text)
@@ -189,4 +189,4 @@ def obtain_geode_descriptors_and_save(filename, class_list, region_name=''):
 
 df = pd.read_csv('/local2/data/xuanming/geode/index.csv', index_col=False)
 class_list = list(df['object'].unique())  # class list in Geo-DE
-obtain_geode_descriptors_and_save('descriptors_geode', class_list)
+obtain_geode_descriptors_and_save('descriptors_geode_3.5', class_list, modelname='gpt-3.5-turbo-0125')
