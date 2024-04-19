@@ -17,10 +17,15 @@ ipython_config.py
 
 ### Logs ###
 logs/*
+wandb/*
+*/wandb/*
 
 ### demo images ###
 figs/examples/*
 *.png
+
+# training hard datasets
+datasets_difficult_images/*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

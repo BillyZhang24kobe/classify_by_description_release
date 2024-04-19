@@ -1,5 +1,5 @@
 def stringtolist(description):
-    return [descriptor[2:] for descriptor in description.split('\n') if (descriptor != '') and (descriptor.startswith('- '))]
+    return [descriptor.strip()[2:] for descriptor in description.split('\n') if (descriptor != '') and (descriptor.strip().startswith('- '))]
 
 def mod_stringtolist(description):
     output_list = []

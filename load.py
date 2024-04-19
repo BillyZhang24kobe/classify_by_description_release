@@ -9,8 +9,8 @@ import pathlib
 from torch.utils.data import DataLoader, Subset
 from torchvision import transforms
 from torchvision.datasets import ImageNet, ImageFolder
-from imagenetv2_pytorch import ImageNetV2Dataset as ImageNetV2
-from datasets import _transform, CUBDataset, GEODEDataset
+# from imagenetv2_pytorch import ImageNetV2Dataset as ImageNetV2
+from cbd_datasets import _transform, CUBDataset, GEODEDataset
 from collections import OrderedDict
 import clip
 
@@ -77,9 +77,13 @@ hparams['descriptor_fname'] = None
 IMAGENET_DIR = '/proj/vondrick3/datasets/ImageNet/' # REPLACE THIS WITH YOUR OWN PATH
 IMAGENETV2_DIR = '/proj/vondrick/datasets/ImageNetV2/' # REPLACE THIS WITH YOUR OWN PATH
 CUB_DIR = '/proj/vondrick/datasets/Birds-200-2011/' # REPLACE THIS WITH YOUR OWN PATH
-GEO_DIR = '/local2/data/xuanming/geode_westasia/'
 # GEO_DIR = '/local/data/xuanming/geode_flat'
-GEO_REGION = 'westasia'
+GEO_DIR = '/local2/data/xuanming/geode_55k/'
+GEO_REGION = 'continent_from_country_all'  # 'continent_from_country_all' 'continent_all', 'all', 'africa', 'europe', 'eastasia', 'americas', 'southeastasia', 'westasia'
+hparams['geo_region'] = ''  # control if you want to include the region in the description for CLIP
+
+if hparams['geo_region']:
+    hparams['between_text'] = ' in '
 
 # PyTorch datasets
 tfms = _transform(hparams['image_size'])
@@ -117,12 +121,14 @@ elif hparams['dataset'] == 'geode':
     hparams['data_dir'] = pathlib.Path(GEO_DIR)
     dataset = GEODEDataset(hparams['data_dir'], train=False, transform=tfms)
     classes_to_load = None #dataset.classes
-    if GEO_DIR:
+    if GEO_DIR and GEO_REGION != 'all':
         hparams['descriptor_fname'] = 'descriptors_geode_' + GEO_REGION
     else:
         hparams['descriptor_fname'] = 'descriptors_geode'
 
-
+# if len(GEO_REGION.split('_')) > 1:  # country level
+#     hparams['descriptor_fname'] = './descriptors_country/' + hparams['descriptor_fname']
+# else:
 hparams['descriptor_fname'] = './descriptors/' + hparams['descriptor_fname']
     
 

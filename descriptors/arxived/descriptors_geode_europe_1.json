@@ -1,0 +1,315 @@
+{
+    "bag": [
+        "Fashionable design, trendy colors or patterns",
+        "European brand logos or labels",
+        "Different types like handbags, backpacks, or tote bags",
+        "Straps or handles",
+        "Metallic details like buckles, zippers or studs",
+        "Leather details or trims ",
+        "Might be carried in hand, on the shoulder, or on the back."
+    ],
+    "hand_soap": [
+        "More commonly in liquid form than bar form and packaged in plastic bottles.",
+        "Hand soaps may come from known European brands such as Dove, Aesop, or L'Occitane.",
+        "Dispensing pump on the bottle."
+    ],
+    "dustbin": [
+        "Lid on top",
+        "Common colors are green, blue, yellow, or grey.",
+        "Markings or symbols indicating waste separation such as paper, general waste, plastic, organic",
+        "Wheels and handle for easy maneuverability in case of larger bins",
+        "Metallic or plastic material",
+        "Found near streets, parks, public areas."
+    ],
+    "toothbrush": [
+        "Small head with many bristles",
+        "May often be near a tube of toothpaste or a sink",
+        "Could also have a modern design, including electric or battery-operated toothbrushes",
+        "Brand names or markings typical of European manufacturers."
+    ],
+    "toothpaste_toothpowder": [
+        "Generally packaged in a small round tin or a plastic container",
+        "The powder could be white or colored ",
+        "The brand name and instructions are most likely in a European language",
+        "it could be next to a toothbrush. ",
+        "The packaging often has images or drawing of sparkling teeth or mint leaves suggesting freshness. ",
+        "Packaging usually has EU health and safety markings."
+    ],
+    "hairbrush_comb": [
+        "Has multiple bristles ",
+        "Round or rectangular shape",
+        "Long handle for easy grip",
+        "Some models may have a small hole at the base of the handle for hanging."
+    ],
+    "chair": [
+        "Classic design, often made of materials like wood or metal",
+        "May have plush, velvet, or linen cushioning",
+        "Robust and sturdy construction",
+        "May have carved or ornate details, especially in more traditional or antique European styles",
+        "Modern designs might include sleek, minimalist lines and materials such as plastic or steel",
+        "Depending on the region, unique local styles, such as the bentwood chairs popular in Central Europe."
+    ],
+    "hat": [
+        "Contemporary styles like baseball or beanie caps",
+        "Made of wool, tweed, or cotton ",
+        "Decoration with feathers, badges, or hatbands ",
+        "Potential brand logos, which are common on modern European hats."
+    ],
+    "light_fixture": [
+        "Use of chandeliers, especially in older or more traditional settings",
+        "Possible use of energy efficient or LED light bulbs",
+        "Light fixtures that are adapted to work with voltage of 220-240 volts, which is standard in Europe",
+        "Wall mounted light fixtures, often with a decorative sconce",
+        "Modern designs in contemporary settings, which may include sleek lines and minimalist aesthetics."
+    ],
+    "light_switch": [
+        "Usually white or light colored ",
+        "Attached to the wall usually at waist level",
+        "Could have a simple on/off toggle or button",
+        "May have symbols or text for 'on' and 'off'",
+        "May be found near doorways."
+    ],
+    "plate_of_food": [
+        "Presentation style: often neat and aesthetically pleasing",
+        "Dishes could be served on fine china or ceramic plates",
+        "Silverware alongside the plate",
+        "Use of herbs and spices for garnish",
+        "Portion size may be smaller compared to other regions",
+        "Common food items like lasagna in Italy, baguettes in France, or bratwurst in Germany."
+    ],
+    "spices": [
+        "Labels on jars are likely in a European language, such as English, French, German, Italian, and so on ",
+        "Common European spices include parsley, sage, rosemary, thyme, and oregano",
+        "Spices might be seen as dry, grounded powders or as fresh herbs",
+        "They may be organized in a spice rack or hung dried."
+    ],
+    "stove": [
+        "Knobs or touch controls on the front of the appliance",
+        "Multiple burners on the top surface",
+        "May have a built-in oven section",
+        "Generally powered by electricity or gas",
+        "Made from stainless steel, glass or other durable material."
+    ],
+    "cooking_pot": [
+        "Handles on the sides ",
+        "Lid on top",
+        "Round in shape",
+        "Some European pots may have specific features such as a pressure cooker valve or a particular style of handle or spout emanating from a certain country or region."
+    ],
+    "cleaning_equipment": [
+        "A vacuum cleaner, typically upright or canister style",
+        "Cleaning products with labels in European languages",
+        "Broom and dustpan sets",
+        "High-pressure washing equipment",
+        "Advanced robotic vacuum cleaners",
+        "Scrub brushes and sponges",
+        "Spray bottles and cleaning solutions",
+        "Traditional feather dusters",
+        "Labels or brands common in Europe on the equipment."
+    ],
+    "lighter": [
+        "Brand logos such as Zippo or BIC ",
+        "Metal or plastic material",
+        "Small size, typically fits in hand",
+        "May have a hinged top",
+        "Flint wheel or push-button ignition mechanism",
+        "They might have graphic designs or text ",
+        "Lighters available in a wide variety of color."
+    ],
+    "medicine": [
+        "Labels are often in European languages (English, French, German, Italian, Spanish etc.)",
+        "Clear or brown glass bottles ",
+        "Blister packs for pills ",
+        "Green cross symbol, often associated with pharmacies in Europe ",
+        "Usage instructions and dosage information on packaging ",
+        "Barcodes or QR codes on packaging ",
+        "Packaging may carry the EU's common logo for online sale of medicines",
+        "Medicine boxes may also display safety and cautionary symbols as prescribed by the European Union. ",
+        "A prescription box with a security seal."
+    ],
+    "candle": [
+        "Wax material with a wick at the top",
+        "Candle may be inside a glass container or lantern",
+        "Sometimes presented on a candlestick holder, which can be ornate in design",
+        "Could be seen in a religious setting such as an church or used in outdoor dining",
+        "May have drips of wax down the side."
+    ],
+    "toy": [
+        "Bright colors",
+        "Common materials like plastic, wood or fabric",
+        "Depicting popular characters from European children's literature or television",
+        "Safety features, like rounded edges or larger parts, that prevent choking hazards",
+        "They might have the CE (Conformit\u00e9 Europ\u00e9ene) marking which is a certification mark that indicates conformity with European health, safety, and environmental protection standards."
+    ],
+    "jug": [
+        "often ornate detailing or designs",
+        "traditional shapes, such as tall, rounded body with a narrow neck and spout",
+        "Handles on the side",
+        "possible presence of European motifs or symbols."
+    ],
+    "streetlight_lantern": [
+        "They may have glass panels ",
+        "Built from materials such as iron, brass or copper",
+        "Located on streets, roads or public parks and squares",
+        "Dome or cylindrical shaped cap on top",
+        "Hanging from a post or attached to walls of buildings ",
+        "May emanate a soft, warm light in night-time photographs."
+    ],
+    "front_door": [
+        "A handle in the center of the door.",
+        "Often taller and narrower than American doors.",
+        "They may have one or two panels of glass, often with a decorative design.",
+        "Doors in townhouses or older buildings often have large, heavy knockers.",
+        "Can have a letterbox near the bottom. ",
+        "Colors can range widely, but deep blues, greens, and reds are popular. ",
+        "Doors in older buildings might feature stone or brick arches above them."
+    ],
+    "tree": [
+        "Deciduous trees that change leaves seasonally",
+        "Unique bark patterns ",
+        "Evergreen conifers, such as spruce and pines",
+        "Distinctive shapes, such as the umbrella shape of a typical Mediterranean olive tree ",
+        "Fruit trees like apple, pear, and cherry common in European landscapes."
+    ],
+    "house": [
+        "Common use of brick or stone in construction",
+        "Distinctly shaped roofs, such as steep roofs in Northern Europe or flat ones in Southern Europe",
+        "Chimneys, which are common features in European homes ",
+        "Shutters on the windows",
+        "The presence of balconies in certain regions",
+        "The use of garden or yard space surrounding the house."
+    ],
+    "backyard": [
+        "Patio furniture such as tables, chairs, or loungers",
+        "A barbecue",
+        "Stone pathways or cobblestone",
+        "Fencing or hedges marking property boundaries",
+        "Traditional or historical architectural style of the visible parts of the house",
+        "Garden decorations such as sculptures, birdbaths, etc. ",
+        "Well-manicured bushes or topiary."
+    ],
+    "truck": [
+        "Visual markings or branding in various languages, particularly English, French, German, Italian, or Spanish.",
+        "A license plate that fits European standards in terms of dimensions, format and character style.",
+        "The cab of the truck where the driver sits may be separate from the cargo area.",
+        "Reflective markings on the side and back of the truck to improve visibility, as required by European law.",
+        "Often has more stream-lined design compared to American trucks."
+    ],
+    "waste_container": [
+        "Typically green or blue in color",
+        "May have words or symbols indicating recycling",
+        "The waste container could be of a large, industrial size (for public use) or a smaller, household size",
+        "Possible inclusion of city or region-specific logos or instructions.",
+        "The waste container may have compartments for separating different types of waste.",
+        "It may have lids or flaps at the top where waste is inserted."
+    ],
+    "car": [
+        "Logo or emblem of European car manufacturers such as BMW, Mercedes, Audi, Fiat etc..",
+        "Left hand drive position (not all but most of the countries in Europe)",
+        "License plates with a distinctive shape, size, and color per European country",
+        "Cars in Europe tend to be smaller and more fuel-efficient than in countries such as the US.",
+        "More commonly seen are hatchbacks and station wagons, as well as a significant number of diesel vehicles."
+    ],
+    "fence": [
+        "Made of wooden panels, metal, or stone ",
+        "Often painted white or natural wood color",
+        "Traditional designs include wrought-iron fences with intricate patterns",
+        "Victorian style decorations in case of older fences",
+        "In rural areas, you may see stone walls or simple wooden fences",
+        "Higher fences are topped with security measures in urban areas. ",
+        "Frequently accompanied by a gate of the same style and material."
+    ],
+    "road_sign": [
+        "The signs usually have a distinctive and standard shape - triangular for warnings, circular for prohibitions, or rectangular for informative signs.",
+        "Most European warning signs are red and white.",
+        "They use international symbols but can contain country-specific symbols or text.",
+        "The use of the metric system on signs, such as height or distance restrictions in meters or kilometers.",
+        "The language on the sign will be specific to the country the photo is taken in.",
+        "Blue and white motorway signs or green and white primary route signs are typical in countries such as the UK. ",
+        "Some places, like the UK, drive on the left side of the road, so signs would be located on the left side. ",
+        "In Scandinavian countries, moose or reindeer warning signs are common.",
+        "Use of a country specific highway marker."
+    ],
+    "dog": [
+        "Varieties of coat colors and patterns ",
+        "Common European breeds such as German Shepherds, French Bulldogs, and English Bulldogs. ",
+        "Identification tags or collars often worn by pets in Europe",
+        "They may be in typical European settings, such as European parks, houses, or streets."
+    ],
+    "wheelbarrow": [
+        "Long handles extending back towards the user.",
+        "A deep basin or bucket the wheel and handles are attached to for carrying loads.",
+        "The wheelbarrow may commonly be found in outdoor settings, such as a garden or construction site.",
+        "Typically made of metal or heavy-duty plastic. ",
+        "The wheelbarrow might have signs of use such as dirt or rust, depending on the specific context in European countries.",
+        "The design is typically simplistic and functional."
+    ],
+    "religious_building": [
+        "Large, ornate structures with spires or steeples",
+        "Stained glass windows often with intricate designs",
+        "Stone or brick construction with aged appearance",
+        "Large wooden doors, often ornate",
+        "Ornate or intricate carvings or statues including religious iconography",
+        "Crosses or other religious symbols located on the exterior of the buildings. ",
+        "Centralized location in a town or city, often surrounded by a courtyard or plaza",
+        "Graveyards often adjoining or near the building."
+    ],
+    "stall": [
+        "Merchandise displayed out front, such as flowers, food, books, or souvenirs",
+        "Hand-written price signs in the local language or in Euros",
+        "Stalls are often wooden and may be decorated with traditional or local motifs",
+        "They may be located in a market square or along a cobblestone street, common settings for stalls in Europe. ",
+        "Outdoor patio or umbrella for customers."
+    ],
+    "boat": [
+        "In coastal areas, boats often have a sail ",
+        "Motorboats or yachts may have flags of European countries",
+        "The name of the boat could be in a European language ",
+        "Traditional gondolas if the photo is in Venice, Italy",
+        "Traditional Viking longboats in Scandinavian countries",
+        "Riverboats or canal boats, commonly seen in cities like Amsterdam.",
+        "Modern vessels could have advanced technologies. ",
+        "If the boat is in a marina, the style and structure of marinas in Europe can be a clue. ",
+        "Fishing boats may have nets and other fishing equipment."
+    ],
+    "monument": [
+        "Gothic, Renaissance, Baroque or Neoclassical architectural styles",
+        "Monuments may feature statues or carvings",
+        "They are often made of stone or metal",
+        "Monuments may be large and towering",
+        "They might be located in a central, public location such as a plaza or a park",
+        "Many European monuments have inscriptions in Latin or local language."
+    ],
+    "flag": [
+        "Bright and distinct colors often used, which might include blue, red, white, green, or yellow",
+        "Various symbols or emblems, some of which are country-specific",
+        "Displayed on pole or hung on buildings",
+        "Can be seen waving if it's a windy day",
+        "Multiple band of colors often in horizontal or vertical orientation",
+        "Presence of cross or other geometrical figures."
+    ],
+    "bus": [
+        "Distinctive livery and logos of European bus companies",
+        "License plate formats unique to certain European countries",
+        "Bus stop signage or street signs in European languages",
+        "European architecture or landmarks in the background",
+        "Passenger side driving placement."
+    ],
+    "storefront": [
+        "Signage written in European languages",
+        "Outdoor display of goods",
+        "Awnings or umbrellas",
+        "Cafe tables and chairs outside ",
+        "Cobblestone streets ",
+        "Traditional European items or food displayed in the window."
+    ],
+    "bicycle": [
+        "Light reflectors or safety strips often placed on spokes",
+        "Designs tend to be more geared towards urban or touring use",
+        "Modern European bikes often have a sturdy frame and racks for storage",
+        "May have gear shifters",
+        "Can consist of a dynamo lighting system",
+        "Baskets in front or pannier bags at the back ",
+        "Standard U-locks for security."
+    ]
+}

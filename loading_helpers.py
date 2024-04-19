@@ -58,12 +58,20 @@ def load_gpt_descriptions(hparams, classes_to_load=None):
             
             word_to_add = wordify(k)
             
-            if (hparams['category_name_inclusion'] == 'append'):
-                build_descriptor_string = lambda item: f"{modify_descriptor(item, hparams['apply_descriptor_modification'])}{hparams['between_text']}{word_to_add}"
-            elif (hparams['category_name_inclusion'] == 'prepend'):
-                build_descriptor_string = lambda item: f"{hparams['before_text']}{word_to_add}{hparams['between_text']}{modify_descriptor(item, hparams['apply_descriptor_modification'])}{hparams['after_text']}"
+            if hparams['geo_region'] == '':
+                if (hparams['category_name_inclusion'] == 'append'):
+                    build_descriptor_string = lambda item: f"{modify_descriptor(item, hparams['apply_descriptor_modification'])}{hparams['between_text']}{word_to_add}"
+                elif (hparams['category_name_inclusion'] == 'prepend'):
+                    build_descriptor_string = lambda item: f"{hparams['before_text']}{word_to_add}{hparams['between_text']}{modify_descriptor(item, hparams['apply_descriptor_modification'])}{hparams['after_text']}"
+                else:
+                    build_descriptor_string = lambda item: modify_descriptor(item, hparams['apply_descriptor_modification'])
             else:
-                build_descriptor_string = lambda item: modify_descriptor(item, hparams['apply_descriptor_modification'])
+                if (hparams['category_name_inclusion'] == 'append'):
+                    build_descriptor_string = lambda item: f"{modify_descriptor(item, hparams['apply_descriptor_modification'])}{hparams['between_text']}{word_to_add}{hparams['between_text']}{hparams['geo_region']}"
+                elif (hparams['category_name_inclusion'] == 'prepend'):
+                    build_descriptor_string = lambda item: f"{hparams['before_text']}{word_to_add}{hparams['between_text']}{hparams['geo_region']}{' '}{modify_descriptor(item, hparams['apply_descriptor_modification'])}{hparams['after_text']}"
+                else:
+                    build_descriptor_string = lambda item: modify_descriptor(item, hparams['apply_descriptor_modification'])
             
             unmodify_dict[k] = {build_descriptor_string(item): item for item in v}
                 
@@ -104,5 +112,7 @@ def show_single_image(image, img_idx, region):
     ax.imshow(denorm_image.squeeze().permute(1, 2, 0).clamp(0,1))
     
     # plt.show()
+    if not os.path.exists('./figs/examples/{}'.format(region)):
+        os.makedirs('./figs/examples/{}'.format(region))
     plt.savefig('./figs/examples/{}/{}.png'.format(region, img_idx))
     plt.close()
